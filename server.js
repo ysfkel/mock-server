@@ -1,7 +1,8 @@
 // server.js
 var jsonServer = require('json-server')
 var server = jsonServer.create()
-var router = jsonServer.router('db.report.json')
+var router = jsonServer.router('db.report.json');
+var properties = jsonServer.router('db.properties.json')
 var middlewares = jsonServer.defaults();
 var express = require('express'),
     cors = require('cors'),
@@ -27,7 +28,9 @@ var express = require('express'),
 
 
 server.use(middlewares)
+server.use(properties);
 server.use(router)
+
 server.listen(5000, function() {
     console.log('JSON Server is running')
 })
