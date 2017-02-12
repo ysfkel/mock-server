@@ -1,0 +1,13 @@
+{
+    "reports": [{
+            "title": "fully furnished house jbr",
+            "price": "AED 85,000",
+            "paymentplan": "yearly",
+            "beds": 1,
+            "size": "2 sqft",
+            "description": "The justice league lived here",
+            "TotalAds": 65
+        },
+
+    ]
+}

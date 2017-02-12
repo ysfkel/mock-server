@@ -1,0 +1,57 @@
+{
+    "autos": [{
+            "id": 1,
+            "title": "fully furnished house jbr",
+            "price": "AED 85,000",
+            "description": "The justice league lived here",
+            "url": "https://www.enterprise.com/content/dam/global-vehicle-images/cars/TOYO_RAV4_2014.png"
+        },
+        {
+            "id": 12,
+            "title": "fully furnished house jbr",
+            "price": "AED 85,000",
+            "description": "The justice league lived here",
+            "url": "https://www.enterprise.com/content/dam/global-vehicle-images/cars/TOYO_RAV4_2014.png"
+        },
+        {
+            "id": 3,
+            "title": "fully furnished house jbr",
+            "price": "AED 85,000",
+            "description": "The justice league lived here",
+            "url": "https://www.enterprise.com/content/dam/global-vehicle-images/cars/TOYO_RAV4_2014.png"
+        },
+        {
+            "id": 1,
+
+            "title": "fully furnished house jbr",
+            "price": "AED 85,000",
+            "description": "The justice league lived here",
+            "url": "https://www.enterprise.com/content/dam/global-vehicle-images/cars/TOYO_RAV4_2014.png"
+        },
+        {
+            "title": "fully furnished house jbr",
+            "price": "AED 85,000",
+            "description": "The justice league lived here",
+            "url": "https://www.enterprise.com/content/dam/global-vehicle-images/cars/TOYO_RAV4_2014.png"
+        },
+        {
+            "title": "fully furnished house jbr",
+            "price": "AED 85,000",
+            "description": "The justice league lived here",
+            "url": "https://www.enterprise.com/content/dam/global-vehicle-images/cars/TOYO_RAV4_2014.png"
+        },
+        {
+            "title": "fully furnished house jbr",
+            "price": "AED 85,000",
+            "description": "The justice league lived here",
+            "url": "https://www.enterprise.com/content/dam/global-vehicle-images/cars/TOYO_RAV4_2014.png"
+        },
+        {
+            "title": "fully furnished house jbr",
+            "price": "AED 85,000",
+            "description": "The justice league lived here",
+            "url": "https://www.enterprise.com/content/dam/global-vehicle-images/cars/TOYO_RAV4_2014.png"
+        }
+
+    ]
+}

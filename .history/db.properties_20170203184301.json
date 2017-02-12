@@ -1,0 +1,13 @@
+{
+    "reports": [{
+            "title": "spf.feed.xml",
+            "DateProcessed": "json-server",
+            "Deleted": "typicode",
+            "Inserted": 1,
+            "Sheilded": 1,
+            "Updated": 345,
+            "TotalAds": 65
+        },
+
+    ]
+}
