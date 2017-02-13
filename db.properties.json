@@ -7,7 +7,7 @@
             "carType": "used",
             "model": "car model",
             "mileage": 330333,
-            "url": "https://www.enterprise.com/content/dam/global-vehicle-images/cars/TOYO_RAV4_2014.png"
+            "url": "TOYO_RAV4_2014.png"
         },
         {
             "id": 12,
@@ -15,7 +15,7 @@
             "price": 85000,
             "description": "The justice league lived here",
 
-            "url": "http://wallpapers.ae/wp-content/uploads/2015/08/Free-Car-Wallpaper.jpg",
+            "url": "Free-Car-Wallpaper.jpg",
 
             "carType": "new",
             "model": "car model",
@@ -28,7 +28,7 @@
             "carType": "used",
             "description": "The justice league lived here",
 
-            "url": "http://hd-wall-papers.com/images/wallpapers/free-download-car-wallpapers-hd/free-download-car-wallpapers-hd-2.jpg",
+            "url": "free-download-car-wallpapers-hd-2.jpg",
 
             "model": "car model",
             "mileage": 330333
@@ -39,7 +39,7 @@
             "price": 85000,
             "description": "The justice league lived here",
 
-            "url": "http://hd-wall-papers.com/images/wallpapers/free-download-car-wallpapers-hd/free-download-car-wallpapers-hd-7.jpg"
+            "url": "free-download-car-wallpapers-hd-7.jpg"
 
             ,
             "carType": "new",
@@ -50,7 +50,7 @@
             "id": 5,
             "price": 85000,
             "description": "The justice league lived here",
-            "url": "http://hd-wall-papers.com/images/wallpapers/free-download-car-wallpapers-hd/free-download-car-wallpapers-hd-21.jpg",
+            "url": "free-download-car-wallpapers-hd-21.jpg",
             "carType": "new",
             "model": "car model",
             "mileage": 330333
@@ -60,7 +60,7 @@
             "price": 85000,
             "description": "The justice league lived here",
 
-            "url": "http://hd-wall-papers.com/images/wallpapers/free-download-car-wallpapers-hd/free-download-car-wallpapers-hd-25.jpg"
+            "url": "free-download-car-wallpapers-hd-25.jpg"
 
             ,
             "carType": "new",
@@ -73,7 +73,7 @@
             "price": 85000,
             "description": "The justice league lived here",
 
-            "url": "http://www.hdcarwallpapers.com/walls/exotic_lamborghini_car-wide.jpg"
+            "url": "exotic_lamborghini_car-wide.jpg"
 
             ,
             "carType": "used",
@@ -86,7 +86,7 @@
             "price": 85000,
             "description": "The justice league lived here",
 
-            "url": "http://wallpaper-gallery.net/images/car-wallpapers-hd-download/car-wallpapers-hd-download-0.jpg"
+            "url": "car-wallpapers-hd-download-0.jpg"
 
             ,
             "carType": "new",
@@ -100,54 +100,54 @@
             "title": "fully furnished house jbr",
             "price": 85000,
             "description": "The justice league lived here",
-            "url": "https://static.pexels.com/photos/206172/pexels-photo-206172.jpeg"
+            "url": "pexels-photo-206172.jpeg"
         },
         {
             "id": 2,
             "title": "fully furnished house jbr",
             "price": 85000,
             "description": "The justice league lived here",
-            "url": "https://static.pexels.com/photos/206172/pexels-photo-206172.jpeg"
+            "url": "pexels-photo-206172.jpeg"
         },
         {
             "id": 3,
             "title": "fully furnished house jbr",
             "price": 85000,
             "description": "The justice league lived here",
-            "url": "https://static.pexels.com/photos/106399/pexels-photo-106399.jpeg"
+            "url": "pexels-photo-106399.jpeg"
         },
         {
             "id": 4,
             "title": "fully furnished house jbr",
             "price": 85000,
             "description": "The justice league lived here",
-            "url": "https://static.pexels.com/photos/164516/pexels-photo-164516.jpeg"
+            "url": "pexels-photo-164516.jpeg"
         },
         {
             "id": 5,
             "price": 85000,
             "description": "The justice league lived here",
-            "url": "https://static.pexels.com/photos/206172/pexels-photo-206172.jpeg"
+            "url": "pexels-photo-206172.jpeg"
         },
         {
             "id": 6,
             "price": 85000,
             "description": "The justice league lived here",
-            "url": "https://static.pexels.com/photos/206172/pexels-photo-206172.jpeg"
+            "url": "pexels-photo-206172.jpeg"
         },
         {
             "id": 7,
             "title": "fully furnished house jbr",
             "price": 85000,
             "description": "The justice league lived here",
-            "url": "https://static.pexels.com/photos/164522/pexels-photo-164522.jpeg"
+            "url": "pexels-photo-164522.jpeg"
         },
         {
             "id": 8,
             "title": "fully furnished house jbr",
             "price": 85000,
             "description": "The justice league lived here",
-            "url": "https://static.pexels.com/photos/164522/pexels-photo-164522.jpeg"
+            "url": "pexels-photo-164522.jpeg"
         }
 
     ]
